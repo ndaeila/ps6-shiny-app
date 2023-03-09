@@ -7,9 +7,13 @@ https://ndaeila.shinyapps.io/ps6-shiny-app/
 The dataset includes four columns:
 
 **year**: the year in which the measurement was taken
+
 **month**: the month in which the measurement was taken
+
 **region**: the region for which the temperature anomaly was measured
+
 **temp**: the temperature anomaly value for the given region and time period
+
 
 ### Widgets and Panels
 The Shiny App consists of three panels:
