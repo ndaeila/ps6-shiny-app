@@ -25,3 +25,5 @@ The Shiny App consists of three panels:
 **Table**: displays a table of temperature anomalies by region and month for a given range of years. You can select the columns to display, as well as the months and years to include.
 
 To use the app, select the desired panel from the tabs at the top of the screen and use the provided widgets to adjust the data displayed.
+
+This took me 6 hours of work and 4 hours of random research.
